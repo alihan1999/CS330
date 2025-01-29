@@ -44,4 +44,4 @@ Homework Solutions for The Multitask/Meta Learning course offered by Stanford
             torch.mean(torch.stack(loss_batch)),
             np.mean(accuracy_support_batch),
             np.mean(accuracy_query_batch)
-        ) ```
+        )
