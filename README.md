@@ -11,6 +11,7 @@ Homework Solutions for The Multitask/Meta Learning course offered by Stanford
 - **Implementing the _step method of Protonet**
   <details>
     <summary>click to see the code</summary>
+    
   ```python
   def _step(self, task_batch):
         loss_batch = []
