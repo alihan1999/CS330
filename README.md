@@ -1,7 +1,7 @@
 # CS330 2023
 
 Homework Solutions for The Multitask/Meta Learning course offered by Stanford
-# HOMEWORK 2 
+# HOMEWORK 2 ✍️
 ## OBJECTIVES 🎯
 - __Studying Protonet__
 - __Introduction to Optimization Based Meta Learning and MAML__
