@@ -9,6 +9,8 @@ Homework Solutions for The Multitask/Meta Learning course offered by Stanford
 - __Running Experiments with MAML under different settings including the magnitude of the inner learning rate, the number of inner iterations and learning inner rates__
 ## Coding Problems
 - **Implementing the _step method of Protonet**
+  <details>
+    <summary>click to see the code</summary>
   ```python
   def _step(self, task_batch):
         loss_batch = []
@@ -45,3 +47,4 @@ Homework Solutions for The Multitask/Meta Learning course offered by Stanford
             np.mean(accuracy_support_batch),
             np.mean(accuracy_query_batch)
         )
+  </details>
